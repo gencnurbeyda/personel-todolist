@@ -1,0 +1,10 @@
+# learn.md sadece kisisel calisma dosyasi, GitHub'a gitmesin.
+learn.md
+
+# Derlenmis dosyalar ve kisisel gorev verisi.
+out/
+veri/
+.DS_Store
+
+# Kisisel not dosyasi
+todo.md
